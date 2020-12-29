@@ -16,13 +16,13 @@ module.exports = {
               resolve: `gatsby-wordpress-inline-images`,
               options:
               {
-                baseUrl: `mochi5o.work/public`,
-                protocol: `http`
+                baseUrl: `assets.mochi5o.work/public`,
+                protocol: `https`
               }
             }
           ],
-          baseUrl: `mochi5o.work/public`,
-          protocol: `http`,
+          baseUrl: `assets.mochi5o.work/public`,
+          protocol: `https`,
           // Indicates if a site is hosted on WordPress.com
           hostingWPCOM: false,
           // Specify which URL structures to fetch

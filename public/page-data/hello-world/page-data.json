@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/hello-world","result":{"data":{"allWordpressPost":{"edges":[{"node":{"title":"Hello world!","content":"\n<p>WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。</p>\n","slug":"hello-world","date":"12-29-2020"}}]}},"pageContext":{"slug":"hello-world"}},"staticQueryHashes":["3649515864"]}
